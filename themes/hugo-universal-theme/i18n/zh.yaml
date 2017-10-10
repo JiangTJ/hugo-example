@@ -1,0 +1,71 @@
+- id: home
+  translation: "首页"
+
+- id: templateBy
+  translation: "Template by"
+
+- id: portedBy
+  translation: "Ported to Hugo by"
+
+- id: contactGoTo
+  translation: "Go to contact page"
+
+- id: contactAddrTitle
+  translation: "地址"
+
+- id: contactTitle
+  translation: "联系"
+
+- id: contactForm
+  translation: "Contact form"
+
+- id: contactName
+  translation: "你的姓名"
+
+- id: contactMail
+  translation: "你的邮箱"
+
+- id: contactMessage
+  translation: "内容"
+
+- id: contactSend
+  translation: "发送"
+
+- id: navHome
+  translation: "go to homepage"
+
+- id: navToggle
+  translation: "Toggle Navigation"
+
+- id: categoriesTitle
+  translation: "类别"
+
+- id: searchTitle
+  translation: "搜索"
+
+- id: tagsTitle
+  translation: "标签"
+
+- id: continueReading
+  translation: "Continue reading"
+
+- id: readMore
+  translation: "Read more"
+
+- id: authorBy
+  translation: "By"
+
+- id: recentPosts
+  translation: "最新的文章"
+
+- id: aboutUs
+  translation: "关于我们"
+
+- id: newer
+  translation: "最新"
+
+- id: older
+  translation: "最旧"
+
+- id: publishedOn
+  translation: "on"
