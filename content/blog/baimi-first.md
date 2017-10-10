@@ -1,6 +1,6 @@
 +++
 title = "“佰米智能快递”风靡各大高校"
-date = "2017/04/05 01:00:00"
+date = "2017-04-05T12:00:00+08:00"
 tags = ["baimi"]
 categories = ["baimi"]
 banner = "http://www.zhoupeng520.cn/img/net2.jpg"
