@@ -3,10 +3,10 @@ title = "“佰米智能快递”风靡各大高校"
 date = "2017-04-05T12:00:00+08:00"
 tags = ["baimi"]
 categories = ["baimi"]
-banner = "http://www.zhoupeng520.cn/img/net2.jpg"
+banner = "img/baimi/net2.jpg"
 +++
 
-![](http://www.zhoupeng520.cn/img/net2.jpg)
+![](img/baimi/net2.jpg)
 
 见习记者洪菡婷报道:在杭州下沙大学城总能看到这样的景象：快递小哥骑着电动车，载着一箩筐快递，穿梭在各高校生活园区；定点取件处，一群大学生在散落一地的快递堆里翻翻找找满是灰尘的包裹。每逢电商疯狂打折日，场面更是壮观。 　　
 
