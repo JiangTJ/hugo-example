@@ -17,23 +17,23 @@ paginate = 10
 # Main menu
 
 [[menu.main]]
-    name = "Home"
+    name = "首页"
     url  = "/"
     weight = 1
 
 [[menu.main]]
-    name = "Blog"
+    name = "博客"
     url  = "/blog/"
     weight = 2
 
 [[menu.main]]
-    name = "FAQ"
+    name = "帮助"
     identifier = "faq"
     url  = "/faq/"
     weight = 3
 
 [[menu.main]]
-    name = "Contact"
+    name = "联系"
     url  = "/contact/"
     weight = 4
 
@@ -42,30 +42,18 @@ paginate = 10
 [[menu.topbar]]
     weight = 1
     name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
-    pre = "<i class='fa fa-2x fa-github'></i>"
+    url = "https://gitlab.com/jiangtj/hugo"
+    pre = "<i class='fa fa-2x fa-gitlab'></i>"
 
 [[menu.topbar]]
     weight = 2
-    name = "Facebook"
-    url = "http://facebook.com"
-    pre = "<i class='fa fa-2x fa-facebook'></i>"
-
-[[menu.topbar]]
-    weight = 3
-    name = "Twitter"
-    url = "http://twitter.com"
-    pre = "<i class='fa fa-2x fa-twitter'></i>"
-
-[[menu.topbar]]
-    weight = 4
     name = "Email"
-    url = "mailto:your@email.com"
+    url = "mailto:jiang.taojie@foxmail.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
+    author = "MrTT"
     defaultKeywords = ["devows", "hugo", "go"]
     defaultDescription = "Site template made by devcows using hugo"
 
@@ -85,7 +73,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "jiang.taojie@foxmail.com"
 
     about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
     copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
@@ -122,7 +110,7 @@ paginate = 10
 [params.widgets]
     categories = true
     tags = true
-    search = true
+    search = false
 
 [params.carousel]
     enable = true
