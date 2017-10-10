@@ -4,6 +4,7 @@
 <https://jiangtj.gitlab.io/hugo>
 
 ### note
+- *这是对hugo的一次尝试*
 - 部分数据来自我目前所在公司的官网
 - 部分数据来自原主题制作者
 
