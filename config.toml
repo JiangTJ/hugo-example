@@ -1,7 +1,7 @@
 baseurl = "https://jiangtj.gitlab.io/hugo/"
 title = "Universal"
 theme = "hugo-universal-theme"
-languageCode = "zh"
+languageCode = "zh-cn"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
